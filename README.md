@@ -1,1 +1,1 @@
-# react19-vite-tailwindcss-shadcn-boilerplate
+# Boilerplate build with Vite
