@@ -1,5 +1,5 @@
 {
-  "name": "react19-vite-tailwindcss-shadcn-boilerplate",
+  "name": "@rafaellacerda/react19-vite-tailwindcss-shadcn-boilerplate",
   "description": "This is a boilerplate build with Vite, React 19, TypeScript, TailwindCSS, Shadcn and Eslint.",
   "private": true,
   "version": "0.0.0",
