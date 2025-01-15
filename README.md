@@ -123,7 +123,3 @@ Contributions are welcome! Feel free to open issues or submit pull requests to e
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/rafaellacerda/react19-vite-tailwindcss-shadcn-boilerplate/blob/main/LICENSE) file for details.
-
----
-
-This `README.md` provides a comprehensive overview of your boilerplate, focusing on setup, usage, and contributions.
