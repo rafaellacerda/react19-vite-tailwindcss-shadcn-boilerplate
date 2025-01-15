@@ -27,7 +27,16 @@ Follow these steps to set up the project locally:
    cd react19-vite-tailwindcss-shadcn-boilerplate
    ```
 
-2. **Install Dependencies**:
+   or
+
+   **Create the project**.
+
+   ```bash
+   pnpm dlx degit rafaellacerda/react19-vite-tailwindcss-shadcn-boilerplate my-app
+   cd my-app
+   ```
+
+3. **Install Dependencies**:
 
    Ensure you have [pnpm](https://pnpm.io/) installed, then run:
 
@@ -35,7 +44,7 @@ Follow these steps to set up the project locally:
    pnpm install
    ```
 
-3. **Start the Development Server**:
+4. **Start the Development Server**:
 
    ```bash
    pnpm dev
